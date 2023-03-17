@@ -1,0 +1,262 @@
+// styles for the base element of the theme
+
+// typography
+p, h1, h2, h3, h4, h5, h6, em, div, span, strong {
+  color: var(--global-text-color);
+}
+
+blockquote {
+  margin-left: 20px;
+}
+
+a, table.table a {
+  color: var(--global-theme-color);
+  &:hover {
+    color: var(--global-theme-color);
+    text-decoration: underline;
+  }
+  &:hover:after {
+    width: 100%;
+  }
+}
+
+// maths
+.equation {
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+// caption
+.caption {
+  font-size: 0.875rem;
+  margin-top: 0.75rem;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+// profile
+.profile {
+  margin-left: 1rem;
+  width: 100%;
+  .address {
+    margin-bottom: 5px;
+    margin-top: 5px;
+    font-family: monospace;
+    font-size: 1.2rem;
+    p {
+      display: inline-block;
+      margin: 0;
+    }
+  }
+}
+
+@media (min-width: 576px) {
+  .profile {
+    width: 30%;
+    .address {
+      p { display: block; }
+    }
+  }
+}
+
+// image
+img {
+  border-radius: 0.25rem;
+  display: block;
+  max-width: 100%;
+}
+
+// blog posts
+.post-description {
+  margin-bottom: 2rem;
+  font-size: 0.875rem;
+  a {
+    color: inherit;
+    &:hover {
+      color: var(--global-theme-color);
+      text-decoration: none;
+    }
+  }
+}
+
+.post-list {
+  margin: 0;
+  margin-bottom: 40px;
+  padding: 0;
+  li {
+    border-bottom: 1px solid $grey-color-light;
+    list-style: none;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    .post-meta {
+      color: $grey-color;
+      font-size: 0.875rem;
+      margin-bottom: 0;
+    }
+    a {
+      color: var(--global-text-color);
+      text-decoration: none;
+      &:hover {
+        color: var(--global-theme-color);
+      }
+    }
+  }
+}
+
+// navbar customisation
+.navbar {
+  box-shadow: none;
+  border-bottom: 1px solid $grey-color-light;
+  opacity: 0.95;
+  background-color: var(--global-bg-color);
+}
+.navbar.navbar-light {
+  // Remove link decoration
+  a {
+    &:hover {
+      text-decoration: none;
+    }
+  }
+  .navbar-brand {
+    color: var(--global-text-color);
+  }
+  .navbar-nav .nav-item .nav-link {
+    color: var(--global-text-color);
+    &:hover {
+      color: var(--global-hover-color);
+    }
+  }
+  .navbar-nav .nav-item.active>.nav-link {
+      background-color: inherit;
+      font-weight: bolder;
+      color: var(--global-theme-color);
+      &:hover {
+        color: var(--global-hover-color);
+      }
+  }
+  .contact-icon {
+    font-size: 2rem;
+    a {
+      &:hover {
+        color: var(--global-hover-color);
+      }
+    }
+  }
+}
+
+.navbar-toggler {
+  .icon-bar {
+    display: block;
+    width: 22px;
+    height: 2px;
+    background-color: var(--global-icon-color);
+    border-radius: 1px;
+    margin-bottom: 4px;
+    transition: all 0.2s;
+  }
+  .top-bar {
+    transform: rotate(45deg);
+    transform-origin: 10% 10%;
+  }
+  .middle-bar {
+    opacity: 0;
+  }
+  .bottom-bar {
+    transform: rotate(-45deg);
+    transform-origin: 10% 90%;
+  }
+}
+
+.navbar-toggler.collapsed {
+  .top-bar {
+    transform: rotate(0);
+  }
+  .middle-bar {
+    opacity: 1;
+  }
+  .bottom-bar {
+    transform: rotate(0);
+  }
+}
+
+// social
+.social {
+  text-align: center;
+  .contact-icon {
+    font-size: 3rem;
+    a {
+      color: var(--global-icon-color);
+      &:hover {
+        color: var(--global-theme-color);
+      }
+    }
+  }
+}
+
+// footer
+footer.fixed-bottom {
+  background-color: var(--global-footer-bg-color);
+  font-size: 0.75rem;
+  .container {
+    color: var(--global-footer-text-color);
+    padding-top: 9px;
+    padding-bottom: 8px;
+  }
+  a {
+    color: var(--global-footer-link-color);
+    &:hover {
+      color: pink;
+      text-decoration: none;
+    }
+  }
+}
+
+footer.sticky-bottom {
+  border-top: 1px solid $grey-color-light;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  font-size: 0.9rem;
+}
+
+// header bar
+.header-bar {
+  border-bottom: 1px solid $grey-color-light;
+  text-align: center;
+  padding-top: 2rem;
+  padding-bottom: 5rem;
+  h1 {
+    color: var(--global-theme-color);
+    font-size: 5rem;
+  }
+}
+
+// projects
+.projects {
+  .grid-item {
+    width: 250px;
+    margin-bottom: 10px;
+    a {
+      color: black;
+      text-decoration: none;
+      &:hover {
+        color: var(--global-theme-color);
+      }
+    }
+  }
+  .card img {
+    width: 100%;
+  }
+}
+
+// Rouge Color Customization
+code {
+  color: var(--global-theme-color);
+}
+// Transitioning Themes
+html.transition,
+html.transition *,
+html.transition *:before,
+html.transition *:after {
+  transition: all 750ms !important;
+  transition-delay: 0 !important;
+}

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    {% include head.html %}
+  </head>
+
+  <body class="fixed-top-nav">
+    {% include header.html %}
+    <div class="container mt-5">
+      {{ content }}
+    </div>
+    {% include footer.html %}
+  </body>
+
+  {% include scripts/bootstrap.html %}
+  {% include scripts/mansory.html %}
+  {% include scripts/misc.html %}
+
+</html>
