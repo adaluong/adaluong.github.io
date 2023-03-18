@@ -3,12 +3,14 @@
 :root {
   --global-bg-color: #{$white-color};
   --global-text-color: #{$black-color};
-  --global-theme-color: #{$purple-color};
-  --global-hover-color: #{$light-purple-color};
+  --global-secondary-text-color: #{$grey-color};
+  --global-theme-color: #{$light-mode-highlight};
+  --global-hover-color: #{$light-mode-hover};
   --global-footer-bg-color: #{$grey-color-dark};
   --global-footer-text-color: #{$grey-color-light};
   --global-footer-link-color: #{$white-color};
   --global-icon-color: #{$grey-color-dark};
+  --global-border-color: #{$grey-color-light};
 
   .fa-sun {
     display : none;
@@ -21,14 +23,16 @@
 }
 
 html[data-theme='dark'] {
-  --global-bg-color: #{$grey-color-dark};
+  --global-bg-color: #{$dark-mode-bg};
   --global-text-color: #{$grey-color-light};
-  --global-theme-color: #{$cyan-color};
-  --global-hover-color: #{$light-cyan-color};
+  --global-secondary-text-color: #{$grey-color-light-alt};
+  --global-theme-color: #{$dark-mode-highlight};
+  --global-hover-color: #{$dark-mode-hover};
   --global-footer-bg-color: #{$grey-color-light};
   --global-footer-text-color: #{$grey-color-dark};
   --global-footer-link-color: #{$black-color};
   --global-icon-color: navajowhite;
+  --global-border-color: #{$grey-color-dark-alt};
 
   .fa-sun {
     padding-left: 10px;
