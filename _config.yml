@@ -48,7 +48,6 @@ plugins:
 
 # optional features
 enable_darkmode:            true
-enable_mansory:             false
 enable_math:                false
 enable_tooltips:            false
 
@@ -69,9 +68,6 @@ jquery:
   integrity: "sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg=="
 mathjax:
   version: "3.1.2"
-mansory:
-  version: "4.2.2"
-  integrity: "sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI="
 mdb:
   version: "4.19.1"
   integrity:
