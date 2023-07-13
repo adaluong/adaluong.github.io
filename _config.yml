@@ -48,7 +48,6 @@ plugins:
 
 # optional features
 enable_darkmode:            true
-enable_math:                false
 enable_tooltips:            false
 
 # library versions
