@@ -45,6 +45,14 @@ plugins:
   - jekyll-sitemap
   - jekyll-link-attributes
   - jemoji
+  - jekyll_picture_tag
+
+# responsive images
+picture:
+  source: "assets/img/"
+  output: "assets/img/resized/"
+  suppress_warnings: true
+  disabled: false # speed up site builds when working on something else
 
 # optional features
 enable_darkmode:            true

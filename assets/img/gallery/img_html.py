@@ -10,11 +10,11 @@ if len(sys.argv) != 2:
     print("usage: ./img_html.py [folder]")
     exit(1)
 
-base_path = "/assets/img/photography/"
+base_path = "/assets/img/"
 folder = sys.argv[1]
 files = glob.glob(folder + "/*")
 
 for img_path in files:
     print('  <div class="mItem">')
-    print(f'    <img src="{base_path}{img_path}"/>')
+    print(f'    {{% picture gallery/{img_path} %}}')
     print('  </div>')

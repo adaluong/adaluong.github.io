@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.webp
+  image: prof_pic.jpg
 ---
 
 Hey, I'm Ada!
