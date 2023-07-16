@@ -1,6 +1,5 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
-    gem 'github-pages'
     gem 'jekyll'
     gem 'jekyll-archives'
     gem 'jekyll-feed'
@@ -10,6 +9,9 @@ group :jekyll_plugins do
     gem 'jekyll-sitemap'
     gem 'jekyll-commonmark-ghpages'
     gem 'jemoji'
+    gem 'jekyll_picture_tag', '~> 1.10.2'
 end
-gem 'commonmarker', '~> 0.17.13'
+gem 'github-pages'
+gem 'commonmarker'
 gem "webrick", "~> 1.7"
+gem "jekyll-link-attributes", "~> 1.0"
