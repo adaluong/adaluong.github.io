@@ -33,7 +33,7 @@ Double degrees work by replacing your free electives/gen-ed requirements with yo
 
 Here's a visual representation:
 
-<img src="{{ site.baseurl }}/assets/img/double-degrees/double-degrees-tldr.png" width="100%" height="auto">
+<img src="{{ site.url }}/assets/img/double-degrees/double-degrees-tldr.png" width="100%" height="auto">
 
 **To figure out what subjects you have to take:**
 
@@ -71,7 +71,7 @@ Most introductory courses are open to students from across the university as ele
 
 Ideally, that shouldn't matter *too* much because you would have chosen the subjects in your second major/degree as your free electives anyway... riiiigght?
 
-<img src="{{ site.baseurl }}/assets/img/double-degrees/double-degrees-flexibility.png" width="30%" height="auto">
+<img src="{{ site.url }}/assets/img/double-degrees/double-degrees-flexibility.png" width="30%" height="auto">
 
 ### So about changing degrees...
 

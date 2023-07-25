@@ -21,7 +21,7 @@ I pass along this information to The Group Chat™️.
 
 **Ada**: I check The Group Chat™️ for the theme. So much potential and scope and ooh wow am I EXCITED. I take off for a walk around the block and start brainstorming ideas.
 
-<img src="{{ site.baseurl }}/assets/img/summarise-my-hackathon/sml-0.png" alt="Text message from Ada saying she is keen to ignore work (minus the fuzzer)" style="max-width: 600px" />
+<img src="{{ site.url }}/assets/img/summarise-my-hackathon/sml-0.png" alt="Text message from Ada saying she is keen to ignore work (minus the fuzzer)" style="max-width: 600px" />
 
 **Genie:** Context: Ada and I are in the same assignment group that needs to write a fuzzer (aka a program to automate hacking other programs) and submit it by Sunday 6pm. The rest of the group do not know we are participating in a hackathon due on Sunday 1pm :D
 
@@ -29,7 +29,7 @@ I pass along this information to The Group Chat™️.
 
 **Ada:** *\* checks for existing miscellaneous ideas in my archive \**
 
-<img src="{{ site.baseurl }}/assets/img/summarise-my-hackathon/sml-1.png" alt="Ada's idea: sending shakespearean scripts one word at a time" style="max-width: 300px" />
+<img src="{{ site.url }}/assets/img/summarise-my-hackathon/sml-1.png" alt="Ada's idea: sending shakespearean scripts one word at a time" style="max-width: 300px" />
 
 the brainstorming is going well.
 
@@ -39,17 +39,17 @@ the brainstorming is going well.
 
 **Genie:** When I join the call, Ada is out on a walk. Naturally, I immediately decide that I want to go on a walk as well. So we're both walking around, bouncing ideas off each other. The thought process goes something like:
 
-<img src="{{ site.baseurl }}/assets/img/summarise-my-hackathon/sml-2.png" alt="Scribbled ideas including better Zoom breakout rooms, rate my courses website, helping educators share resources, and lecture chat management" />
+<img src="{{ site.url }}/assets/img/summarise-my-hackathon/sml-2.png" alt="Scribbled ideas including better Zoom breakout rooms, rate my courses website, helping educators share resources, and lecture chat management" />
 
 **Ada**: a lecture chat managing platform sounds pretty cool! but it's also quite broad, and we only had 24 hours to implement our base idea (and simultaneously complete our uni assignments)
 
-<img src="{{ site.baseurl }}/assets/img/summarise-my-hackathon/sml-3.png" alt="Message from Ada: 'i reckon best thing is to keep our base idea simple but tackle something tangible and specific'" style="max-width: 600px" />
+<img src="{{ site.url }}/assets/img/summarise-my-hackathon/sml-3.png" alt="Message from Ada: 'i reckon best thing is to keep our base idea simple but tackle something tangible and specific'" style="max-width: 600px" />
 
 so surely, we choose a specific feature to implement and spin that off into its own product.
 
 **Genie:** Now I was thinking about what it's like as a student watching lectures, and what would be the one thing that would really boost my experience. Well... it would be *not having to watch the lectures* :) Reading the slides is ok, but I'd be missing out on any extra info that the lecturer brings up when they answer student questions - so what if those student questions and lecturer answers were somehow matched up together and collected for each lecture??
 
-<img src="{{ site.baseurl }}/assets/img/summarise-my-hackathon/sml-4.png" alt="Idea narrowed down to 'Lecture Q&A matching thing'" style="max-width: 370px" />
+<img src="{{ site.url }}/assets/img/summarise-my-hackathon/sml-4.png" alt="Idea narrowed down to 'Lecture Q&A matching thing'" style="max-width: 370px" />
 
 We're pretty excited because this seems to tick off our criteria!
 
@@ -61,7 +61,7 @@ We're pretty excited because this seems to tick off our criteria!
 
 **Ada**: I think the idea is pretty cool. Genie thinks the idea is pretty cool. But the thing is, we both came up with the idea... so the next step would be to figure out if other people would also think the idea is 'pretty cool'. Asking our friends would be a solid next step, but I also want to ask someone from the outside. So, I settle back into my desk and check out the times available for the industry mentoring meetings scattered throughout the Hackathon. The only booking left for the day was in about 10 minutes ...
 
-<img src="{{ site.baseurl }}/assets/img/summarise-my-hackathon/sml-5.png" alt="Booking confirmation for mentoring" style="max-width: 600px" />
+<img src="{{ site.url }}/assets/img/summarise-my-hackathon/sml-5.png" alt="Booking confirmation for mentoring" style="max-width: 600px" />
 
 **Genie:** When I was happily strolling around my neighbourhood I really was not expecting that I would have a DEADLINE to return home by. And so I hang up on the call and hustle back home.
 
@@ -71,11 +71,11 @@ We're pretty excited because this seems to tick off our criteria!
 
 After some quick searching, I find a Python library that extracts the live chat from a YouTube video given a video token (including the user who typed the message and the timestamp of that message), and another Python library that extracts the transcript of a YouTube video from its closed captions (with associated timestamps).
 
-<img src="{{ site.baseurl }}/assets/img/summarise-my-hackathon/sml-6.png" alt="Message showing downloaded Youtube chat" />
+<img src="{{ site.url }}/assets/img/summarise-my-hackathon/sml-6.png" alt="Message showing downloaded Youtube chat" />
 
 **Genie:** So in the time it took for me to get home, Ada has figured out that our idea *is* very possible. This is a very good start!!
 
-<img src="{{ site.baseurl }}/assets/img/summarise-my-hackathon/sml-7.png" alt="Message showing downloaded Youtube transcript" />
+<img src="{{ site.url }}/assets/img/summarise-my-hackathon/sml-7.png" alt="Message showing downloaded Youtube transcript" />
 
 #### 2:34 PM
 
@@ -83,7 +83,7 @@ After some quick searching, I find a Python library that extracts the live chat 
 
 #### 2:45 PM
 
-<img src="{{ site.baseurl }}/assets/img/summarise-my-hackathon/sml-8.png" alt="Message showing mentoring starting" />
+<img src="{{ site.url }}/assets/img/summarise-my-hackathon/sml-8.png" alt="Message showing mentoring starting" />
 
 <p style="text-align: center; font-weight: 600;">
 ==== QUESTIONS FROM OUR MENTOR (thank you Livia from Canva!) ====
@@ -125,7 +125,7 @@ Before we go though, we make a few milestones for ourselves, so we know where to
 
 #### 6:28 PM
 
-<img src="{{ site.baseurl }}/assets/img/summarise-my-hackathon/sml-9.png" alt="Ada and Genie decide to postpone working on the hackathon because we got other stuff to finish" />
+<img src="{{ site.url }}/assets/img/summarise-my-hackathon/sml-9.png" alt="Ada and Genie decide to postpone working on the hackathon because we got other stuff to finish" />
 
 #### 7:30 PM
 
@@ -139,13 +139,13 @@ I've also never connected a backend and frontend in my life before, but I had se
 
 **Genie**: About 30 minutes into me relearning what a RESTful API was, my high school friends spontaneously start up a Zoom call.
 
-<img src="{{ site.baseurl }}/assets/img/summarise-my-hackathon/sml-10.png" alt="Genie's friends text in the group chat to start a Zoom call" style="max-width: 600px" />
+<img src="{{ site.url }}/assets/img/summarise-my-hackathon/sml-10.png" alt="Genie's friends text in the group chat to start a Zoom call" style="max-width: 600px" />
 
 **Genie:** Of course I joined.
 
 #### 8:23 PM
 
-<img src="{{ site.baseurl }}/assets/img/summarise-my-hackathon/sml-12.png" alt="Genie tells Ada she's about to start setting up a server" style="max-width: 600px" />
+<img src="{{ site.url }}/assets/img/summarise-my-hackathon/sml-12.png" alt="Genie tells Ada she's about to start setting up a server" style="max-width: 600px" />
 
 **Genie:** Gotta admit this message was a bit of a lie since I was already about an hour into it. But idk I didn't want to be like "hey ada i just been attempting to set up the most basic server for an hour and it's not really working yet bc i'm simultaneously listening to my friend's relationship issues".
 
@@ -153,24 +153,24 @@ I've also never connected a backend and frontend in my life before, but I had se
 
 Meanwhile, in our COMP6447 fuzzer assignment group chat....
 
-<img src="{{ site.baseurl }}/assets/img/summarise-my-hackathon/sml-13.png" alt="hexDoor asks 'is anyone working on this at all?'" />
-<img src="{{ site.baseurl }}/assets/img/summarise-my-hackathon/sml-14.png" alt="hexDoor starts a call" />
+<img src="{{ site.url }}/assets/img/summarise-my-hackathon/sml-13.png" alt="hexDoor asks 'is anyone working on this at all?'" />
+<img src="{{ site.url }}/assets/img/summarise-my-hackathon/sml-14.png" alt="hexDoor starts a call" />
 
 \* Ada joins the call \*
 
 \* Genie does not \*
 
-<img src="{{ site.baseurl }}/assets/img/summarise-my-hackathon/sml-15.png" alt="this is fine" />
+<img src="{{ site.url }}/assets/img/summarise-my-hackathon/sml-15.png" alt="this is fine" />
 
 #### 10:47 PM
 
-<img src="{{ site.baseurl }}/assets/img/summarise-my-hackathon/sml-16.png" alt="Genie shows Ada the set up website" />
+<img src="{{ site.url }}/assets/img/summarise-my-hackathon/sml-16.png" alt="Genie shows Ada the set up website" />
 
 **Genie:** Progress! Basically, someone can input a YouTube link, and then the transcript from that video is displayed on the screen.
 
 I show this to my friends on the call and they are.... unimpressed. Fair enough - it kinda looks like I just copied some text into plain HTML. But there's some extra stuff happening behind the scenes I promise:
 
-<img src="{{ site.baseurl }}/assets/img/summarise-my-hackathon/sml-17.png" alt="Diagram showing the pipeline from the frontend receiving the input, sending the video id to the server, the python methods being called, and sent back to the frontend" />
+<img src="{{ site.url }}/assets/img/summarise-my-hackathon/sml-17.png" alt="Diagram showing the pipeline from the frontend receiving the input, sending the video id to the server, the python methods being called, and sent back to the frontend" />
 
 Setting it all up went something like this:
 
@@ -184,7 +184,7 @@ Setting it all up went something like this:
 5. Extract video IDs from Youtube links by taking [a regex pattern from Stack Overflow](https://stackoverflow.com/questions/3452546/how-do-i-get-the-youtube-video-id-from-a-url)
 6. Make the form submission trigger a request to the Flask server by, you guessed it, following [another tutorial](https://sebhastian.com/react-submit-form/)
 
-Call me a [professional googler]({{ site.baseurl }}/assets/img/summarise-my-hackathon/sml-18.png) 😎
+Call me a [professional googler]({{ site.url }}/assets/img/summarise-my-hackathon/sml-18.png) 😎
 
 MVP might be a stretch, but from here all we need to do is implement the actual question-answer matching logic in Python, and make it look prettier on the frontend. Ez.
 
@@ -194,7 +194,7 @@ For now, though, I had neglected my COMP6447 group for the last hour so it was t
 
 **Genie:** Yeah, about 16 minutes into the assignment call I realise that my brain is nowhere near security land.
 
-<img src="{{ site.baseurl }}/assets/img/summarise-my-hackathon/sml-19.png" alt="Genie says 'bro surely we sack and work on this instead'" />
+<img src="{{ site.url }}/assets/img/summarise-my-hackathon/sml-19.png" alt="Genie says 'bro surely we sack and work on this instead'" />
 
 **Ada**: So... Genie and I confess to our group members that we're simultaneously attempting a hackathon and that we would be baCK to work on the fuzzer in the morning 😇
 
@@ -243,7 +243,7 @@ For now, we need to get something *working -* we can optimise and iterate over i
 Here's the deal: we'll first find instances in the lecture transcript where the lecturer mentions "the chat" or "questions" as our starting point. Then, we'll read in the next few phrases or sentences, hoping that the lecturer is repeating or rephrasing the question in some form. Then, we'll search through the live chat and find similar phrases. If there's a match, we'll take the next few sentences from the lecturer and assert that it's the answer to the question. Ez.
 
 <figure>
-    <img src="{{ site.baseurl }}/assets/img/summarise-my-hackathon/sml-20.png" alt="Annotated algorithm in action" />
+    <img src="{{ site.url }}/assets/img/summarise-my-hackathon/sml-20.png" alt="Annotated algorithm in action" />
     <figcaption><i>* frontend transported from the future *</i></figcaption>
 </figure>
 
@@ -253,7 +253,7 @@ Then comes the next question:
 
 I spiral down an internet rabbit hole looking for a solution and end up at [an interesting competition from 2017](https://www.kaggle.com/c/quora-question-pairs/code). It was a problem put forward by Quora, a public question-and-answer website based in Mountain View, California. The website has over 100 million people every month, so many people ask similarly worded questions — this makes it hard for seekers to find the best answer to their questions and makes writers feel they need to answer multiple versions of the same question.
 
-<img src="{{ site.baseurl }}/assets/img/summarise-my-hackathon/sml-21.png" alt="Quora Question Pairs competition" />
+<img src="{{ site.url }}/assets/img/summarise-my-hackathon/sml-21.png" alt="Quora Question Pairs competition" />
 
 (Yes, $25,000 prize money!)
 
@@ -269,7 +269,7 @@ There's Numpy and pandas that are used heaps in data science projects. Then, the
 
 **Genie:** I very much agree that [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) sounds very cute, so let's look into what it does. [Tutorialspoint](https://www.tutorialspoint.com/fuzzywuzzy-python-library) tells us this:
 
-<img src="{{ site.baseurl }}/assets/img/summarise-my-hackathon/sml-22.png" alt="Introduction to the FuzzyWuzzy library" />
+<img src="{{ site.url }}/assets/img/summarise-my-hackathon/sml-22.png" alt="Introduction to the FuzzyWuzzy library" />
 
 Compares strings!! Returns a score based on how closely they match!!! This is perfect for us!
 
@@ -279,23 +279,23 @@ The scoring part is also super convenient because we can adjust our threshold va
 
 We look for a few lectures and pass them in, adjusting the threshold score as we go. Basically, we're doing the work of the neural networks we didn't train :) The highly advanced Genie and Ada AI model lands on 48 as the magic threshold that can detect most matches, without producing false positives. 
 
-<img src="{{ site.baseurl }}/assets/img/summarise-my-hackathon/sml-23.png" alt="Majik" style="max-width: 500px" />
+<img src="{{ site.url }}/assets/img/summarise-my-hackathon/sml-23.png" alt="Majik" style="max-width: 500px" />
 
 #### 1:45 AM
 
 **Genie:** So far, the web design was kind of non-existent. I think I was kind of banking on the idea that someone else in the group chat \*cough Eddy\* would come along and work their frontend magic. But by 1:45am, I accept that the frontend magic will be whatever Bootstrap components I can pull together before I fall asleep ;-;
 
 **Before:**
-<img src="{{ site.baseurl }}/assets/img/summarise-my-hackathon/sml-24.png" alt="Link input screen before" />
-<img src="{{ site.baseurl }}/assets/img/summarise-my-hackathon/sml-25.png" alt="Video transcript screen after" />
+<img src="{{ site.url }}/assets/img/summarise-my-hackathon/sml-24.png" alt="Link input screen before" />
+<img src="{{ site.url }}/assets/img/summarise-my-hackathon/sml-25.png" alt="Video transcript screen after" />
 
 **After:**
-<img src="{{ site.baseurl }}/assets/img/summarise-my-hackathon/sml-26.png" alt="Link input screen after" />
-<img src="{{ site.baseurl }}/assets/img/summarise-my-hackathon/sml-27.png" alt="Video q&a screen after" style="max-width: 685px" />
+<img src="{{ site.url }}/assets/img/summarise-my-hackathon/sml-26.png" alt="Link input screen after" />
+<img src="{{ site.url }}/assets/img/summarise-my-hackathon/sml-27.png" alt="Video q&a screen after" style="max-width: 685px" />
 
 So, uh now there's a navbar, there's a place for the Q&As to go, and there's left and right margins.
 
-<img src="{{ site.baseurl }}/assets/img/summarise-my-hackathon/sml-11.jpeg" alt="It ain't much, but it's honest work" style="max-width: 400px" />
+<img src="{{ site.url }}/assets/img/summarise-my-hackathon/sml-11.jpeg" alt="It ain't much, but it's honest work" style="max-width: 400px" />
 
 Also notice that at this point, our name is "Q&A Delivery Service". Real catchy right?
 
@@ -311,13 +311,13 @@ Also notice that at this point, our name is "Q&A Delivery Service". Real catchy 
 
 #### Sunday 3:03AM
 
-<img src="{{ site.baseurl }}/assets/img/summarise-my-hackathon/sml-28.png" alt="Ada sends a bill wurtz tweet: everything keeps going in and out of shambles" style="max-width: 600px" />
+<img src="{{ site.url }}/assets/img/summarise-my-hackathon/sml-28.png" alt="Ada sends a bill wurtz tweet: everything keeps going in and out of shambles" style="max-width: 600px" />
 
 **Ada**: I make one (1) Canva slide and call it a night.
 
 **Genie:** I reckon the website has reached a presentable state, so it's time for me to sleep too.
 
-<img src="{{ site.baseurl }}/assets/img/summarise-my-hackathon/sml-29.png" alt="Genie sends one last message to the group chat" />
+<img src="{{ site.url }}/assets/img/summarise-my-hackathon/sml-29.png" alt="Genie sends one last message to the group chat" />
 
 Although not without a last attempt to get the rest of our original group to help out :')
 
@@ -337,7 +337,7 @@ you'd think the logical thing to do would be to do some very important work on s
 
 #### 10:06 AM
 
-<img src="{{ site.baseurl }}/assets/img/summarise-my-hackathon/sml-30.png" alt="Genie tells Ada that she has 'added some tiny extra features'" style="max-width: 650px" />
+<img src="{{ site.url }}/assets/img/summarise-my-hackathon/sml-30.png" alt="Genie tells Ada that she has 'added some tiny extra features'" style="max-width: 650px" />
 
 **Genie:** Ok so at 10:06am we did not have a problem statement, business model, user stories, or a name. *But* we now had some "tiny extra features" in the form of:
 
@@ -350,7 +350,7 @@ Except, we STILL DON'T HAVE A NAME.
 
 Time to brainstorm. Maybe something techy? Or some type of lowkey pun? Or like a single word that somehow encapsulates everything we're doing: condensing lectures.
 
-<img src="{{ site.baseurl }}/assets/img/summarise-my-hackathon/sml-31.png" alt="Synonyms for condense" style="max-width: 500px" />
+<img src="{{ site.url }}/assets/img/summarise-my-hackathon/sml-31.png" alt="Synonyms for condense" style="max-width: 500px" />
 
 Compress?? Curtail?? Coagulate???
 
@@ -361,7 +361,7 @@ And that's when I landed on: **"Summarise My Lecture"**
 #### 11:01 AM
 
 <figure>
-    <img src="{{ site.baseurl }}/assets/img/summarise-my-hackathon/sml-32.png" alt="Genie telling the group chat 'ahaha we don\'t have a video yet'" style="max-width: 650px" />
+    <img src="{{ site.url }}/assets/img/summarise-my-hackathon/sml-32.png" alt="Genie telling the group chat 'ahaha we don\'t have a video yet'" style="max-width: 650px" />
     <figcaption>19 July 2020 at 10:49am</figcaption>
 </figure>
 
@@ -387,7 +387,7 @@ First, breakfast :)))))
 
 #### 11:22 AM
 
-<img src="{{ site.baseurl }}/assets/img/summarise-my-hackathon/sml-33.png" alt="Eddy telling Genie 'I\'m so sad I couldn\'t help you guys'" style="max-width: 650px" />
+<img src="{{ site.url }}/assets/img/summarise-my-hackathon/sml-33.png" alt="Eddy telling Genie 'I\'m so sad I couldn\'t help you guys'" style="max-width: 650px" />
 
 **Genie:** Eddy texts me as if she were expecting that we would be finished?? We were just getting STARTED.
 
@@ -401,11 +401,11 @@ I couldn't let all the hard work they put in not be recognised, so I put my COMP
 
 **Ada**: We spent the last 30 minutes finishing up the slides (whoops) and now we've got 30 minutes to go with the video. I try to record the introductory segment of our pitch. It'll take like a minute maximum to introduce our problem statement and pitch our solution.... when I suddenly decide that I really want to have my CAT in the video as well... because what's a university lecturer without a cat!?!?!?!? (recall: I spent my night analysing Marc Chee's COMP1511 lectures). 
 
-<img src="{{ site.baseurl }}/assets/img/summarise-my-hackathon/sml-34.png" alt="Ada's cat!" style="max-width: 250px" />
+<img src="{{ site.url }}/assets/img/summarise-my-hackathon/sml-34.png" alt="Ada's cat!" style="max-width: 250px" />
 
 I check Discord and Genie and Eddy have already sent over some parts of their video, but I really want to get this shot with my cat (who does not want to be in the frame) in the frame. After my 17123th attempt, I log back into discord so I can speed-edit this video
 
-<img src="{{ site.baseurl }}/assets/img/summarise-my-hackathon/sml-35.png" alt="Eddy and Genie hyping up Ada" />
+<img src="{{ site.url }}/assets/img/summarise-my-hackathon/sml-35.png" alt="Eddy and Genie hyping up Ada" />
 
 ... and realised I was not on mute 😳😳😳
 
@@ -422,7 +422,7 @@ I bash out something coherent to say, speed read it and send the recording off t
 #### 12:29 PM
 
 <figure>
-    <img src="{{ site.baseurl }}/assets/img/summarise-my-hackathon/sml-23.png" alt="Majik" style="max-width: 600px" />
+    <img src="{{ site.url }}/assets/img/summarise-my-hackathon/sml-23.png" alt="Majik" style="max-width: 600px" />
     <figcaption>Ada working her majik (c. Sunday 12:29pm, colourised)</figcaption>
 </figure>
 
@@ -457,19 +457,19 @@ I bash out something coherent to say, speed read it and send the recording off t
 4 out of 7 ain't terrible :))
 
 ***Meanwhile... in the fuzzer group chat...***
-<img src="{{ site.baseurl }}/assets/img/summarise-my-hackathon/sml-37.png" alt="hexDoor asking 'can i have some kind of articulation that anyone is here?'" />
+<img src="{{ site.url }}/assets/img/summarise-my-hackathon/sml-37.png" alt="hexDoor asking 'can i have some kind of articulation that anyone is here?'" />
 
 ## Step 5: Sike - pitch part THREE
 
 #### 1:31 PM
 
-<img src="{{ site.baseurl }}/assets/img/summarise-my-hackathon/sml-38.png" alt="Ada and Genie realising we need to do live Q&A" style="max-width: 350px" />
+<img src="{{ site.url }}/assets/img/summarise-my-hackathon/sml-38.png" alt="Ada and Genie realising we need to do live Q&A" style="max-width: 350px" />
 
 **Genie:** I swear I was listening during the welcome, but somehow missed the fact that every team had to do live Q&A after the judges watched their video??
 
 So we gotta report back to our COMP6447 group - *sorry* we'll come back in another hour :))
 
-<img src="{{ site.baseurl }}/assets/img/summarise-my-hackathon/sml-39.png" alt="hexDoor says 'i still dont understand why you guys did a hackathon'" />
+<img src="{{ site.url }}/assets/img/summarise-my-hackathon/sml-39.png" alt="hexDoor says 'i still dont understand why you guys did a hackathon'" />
 
 *(editor's note: don't worry, we pulled through with this assignment with a solid 9/10 :') ... and it was only the mid-point submission... no stress...)*
 
@@ -513,7 +513,7 @@ As I'm speaking, more ideas come to me so I keep going:
 
 #### 2:23 PM
 
-<img src="{{ site.baseurl }}/assets/img/summarise-my-hackathon/sml-40.png" alt="Ada: 'fuck yeah' Genie: 'yo wtf that went kinda well'" />
+<img src="{{ site.url }}/assets/img/summarise-my-hackathon/sml-40.png" alt="Ada: 'fuck yeah' Genie: 'yo wtf that went kinda well'" />
 
 #### 5:00 PM
 
@@ -523,7 +523,7 @@ As I'm speaking, more ideas come to me so I keep going:
 
 **Ada**: 
 
-<img src="{{ site.baseurl }}/assets/img/summarise-my-hackathon/sml-41.png" alt="Didn't get a place but still pretty excited" />
+<img src="{{ site.url }}/assets/img/summarise-my-hackathon/sml-41.png" alt="Didn't get a place but still pretty excited" />
 
 **Genie:** ok damn ngl I *was* hoping we could slide into 3rd or something but alas we did not get announced as any of the winners. But either way, I was still buzzing from managing to pull everything into a little video and get everything submitted. Our judges did seem to have liked our pitch though....
 
@@ -533,17 +533,17 @@ As I'm speaking, more ideas come to me so I keep going:
 
 #### 5:41 PM
 
-<img src="{{ site.baseurl }}/assets/img/summarise-my-hackathon/sml-42.png" alt="Us realising we came 4th and 2nd for People's Choice" style="max-width: 600px" />
+<img src="{{ site.url }}/assets/img/summarise-my-hackathon/sml-42.png" alt="Us realising we came 4th and 2nd for People's Choice" style="max-width: 600px" />
 
 **Genie:** We were very close !! It's so close that I ask Ryan (CSESoc Media Co-Director) to double-check the scores.
 
 And he makes an important observation...
 
-<img src="{{ site.baseurl }}/assets/img/summarise-my-hackathon/sml-43.png" alt="Ryan realises we actually tied for People's Choice" style="max-width: 600px" />
+<img src="{{ site.url }}/assets/img/summarise-my-hackathon/sml-43.png" alt="Ryan realises we actually tied for People's Choice" style="max-width: 600px" />
 
 **Ada**: 👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀
 
-<img src="{{ site.baseurl }}/assets/img/summarise-my-hackathon/sml-44.png" alt="Genie tells Shrey about the votes" style="max-width: 450px" />
+<img src="{{ site.url }}/assets/img/summarise-my-hackathon/sml-44.png" alt="Genie tells Shrey about the votes" style="max-width: 450px" />
 
 **Genie:** I reckon that counts as official confirmation.
 
@@ -568,7 +568,7 @@ There's an unparalleled thrill that comes with making something with a plan we d
 I'm extremely glad that Genie convinced me to ditch that uni assignment and hit that delirious 3am state - when everything's funny and nothing's impossible and all you want is for whatever you're coding to *work, dammit!* When there's so little time and so much to do, we really had to focus on what the core of our product was, figure out what we needed to learn, and then go all in and fly the plane while building it (because, well there's always time after the Hackathon to iterate over it, right? 👀)
 
 <figure>
-    <img src="{{ site.baseurl }}/assets/img/summarise-my-hackathon/sml-45.png" alt="Ada and Genie flying a plane while building it" style="max-width: 500px" />
+    <img src="{{ site.url }}/assets/img/summarise-my-hackathon/sml-45.png" alt="Ada and Genie flying a plane while building it" style="max-width: 500px" />
     <figcaption>Ada and Genie flying a plane while building it</figcaption>
 </figure>
 
@@ -578,7 +578,7 @@ I'm extremely glad that Genie convinced me to ditch that uni assignment and hit 
 
 **Genie**: Now, I think every semi-successful hackathon group reaches the end and goes *"hey what if we make this an actual thing?"*. And you bet we are no different. Those milestones that we made at the start of the project - they're still nagging me because I *know* they are achievable.
 
-<img src="{{ site.baseurl }}/assets/img/summarise-my-hackathon/sml-46.png" alt="Ada's ideas" style="max-width: 500px" />
+<img src="{{ site.url }}/assets/img/summarise-my-hackathon/sml-46.png" alt="Ada's ideas" style="max-width: 500px" />
 
 We also have a few extension ideas! Including the one Ada came up with on the spot during Q&A :D
 
