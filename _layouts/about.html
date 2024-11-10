@@ -14,7 +14,7 @@ layout: default
     {% if page.profile %}
     <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
       {% if page.profile.image %}
-        {% picture {{ page.profile.image }} class="img-fluid z-depth-1 rounded" %}
+        {% picture {{ page.profile.image }} class="img-fluid z-depth-1 rounded" --alt portrait of ada %}
       {% endif %}
     </div>
     {% endif %}

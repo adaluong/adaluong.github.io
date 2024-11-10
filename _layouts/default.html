@@ -8,6 +8,7 @@ layout: compress
   <head>
     {% include head.html %}
   </head>
+  {% include analytics.html %}
 
   <body class="fixed-top-nav">
     {% include header.html %}
@@ -19,5 +20,8 @@ layout: compress
 
   {% include scripts/bootstrap.html %}
   {% include scripts/misc.html %}
-
+  <!-- Google Analytics tracking ID -->
+  {% if jekyll.environment == "production" %}
+    {% include analytics.html %}
+  {% endif %}
 </html>
