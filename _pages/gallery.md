@@ -5,7 +5,11 @@ title: gallery
 description: moments in time | shot on a pixel 6
 nav: true
 ---
-<div class="masonry">
+
+<a href="#japan"><button type="button" href="#japan">japan</button></a>
+<a href="#taiwan"><button type="button">taiwan</button></a>
+
+<div class="masonry" id="japan">
   <div class="mItem">
     {% picture photography gallery/japan/shibuya_google.jpg --alt shibuya from the google tokyo office %}
   </div>
@@ -68,5 +72,46 @@ nav: true
   </div>
   <div class="mItem">
     {% picture photography gallery/japan/team_lab_tokyo.jpg --alt team lab tokyo interactive art installation %}
+  </div>
+</div>
+
+<hr />
+
+<div class="masonry" id="taiwan">
+  <div class="mItem">
+    {% picture gallery/taiwan/shouzhen-temple-min.jpg %}
+  </div>
+  <div class="mItem">
+    {% picture gallery/taiwan/ximending-min.jpg %}
+  </div>
+  <div class="mItem">
+    {% picture gallery/taiwan/alishan-leaf-min.jpg %}
+  </div>
+ <div class="mItem">
+    {% picture gallery/taiwan/shifen-min.jpg %}
+  </div>
+  <div class="mItem">
+    {% picture gallery/taiwan/rainy-street-min.jpg %}
+  </div>
+  <div class="mItem">
+    {% picture gallery/taiwan/night-market-min.jpg %}
+  </div>
+  <div class="mItem">
+    {% picture gallery/taiwan/bookshop-min.jpg %}
+  </div>
+  <div class="mItem">
+    {% picture gallery/taiwan/taiwan-cats-min.jpg %}
+  </div>
+  <div class="mItem">
+    {% picture gallery/taiwan/jiufen-min.jpg %}
+  </div>
+  <div class="mItem">
+    {% picture gallery/taiwan/taipei101-min.jpg %}
+  </div>
+  <div class="mItem">
+    {% picture gallery/taiwan/creative-park-min.jpg %}
+  </div>
+  <div class="mItem">
+    {% picture gallery/taiwan/motorbikes-min.jpg %}
   </div>
 </div>
