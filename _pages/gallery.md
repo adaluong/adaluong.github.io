@@ -8,6 +8,7 @@ nav: true
 
 <a href="#japan"><button type="button" href="#japan">japan</button></a>
 <a href="#taiwan"><button type="button">taiwan</button></a>
+<a href="#bali"><button type="button">bali</button></a>
 
 <div class="masonry" id="japan">
   <div class="mItem">
@@ -113,5 +114,49 @@ nav: true
   </div>
   <div class="mItem">
     {% picture gallery/taiwan/motorbikes-min.jpg %}
+  </div>
+</div>
+
+<hr />
+
+<div class="masonry" id="bali">
+  <div class="mItem">
+    {% picture gallery/bali/kelingking-beach-min.jpg %}
+  </div>
+  <div class="mItem">
+    {% picture gallery/bali/smol-roosters-min.jpg %}
+  </div>
+  <div class="mItem">
+    {% picture gallery/bali/sunset-min.jpg %}
+  </div>
+  <div class="mItem">
+    {% picture gallery/bali/dog-on-beach-min.jpg %}
+  </div>
+  <div class="mItem">
+    {% picture gallery/bali/ceking-rice-terrace-min.jpg %}
+  </div>
+  <div class="mItem">
+    {% picture gallery/bali/boat-and-clouds-min.jpg %}
+  </div>
+  <div class="mItem">
+    {% picture gallery/bali/mt-batur-sunrise-min.jpg %}
+  </div>
+  <div class="mItem">
+    {% picture gallery/bali/broken-beach-min.jpg %}
+  </div>
+  <div class="mItem">
+    {% picture gallery/bali/ocean-min.jpg %}
+  </div>
+  <div class="mItem">
+    {% picture gallery/bali/water-skiing-min.JPG %}
+  </div>
+  <div class="mItem">
+    {% picture gallery/bali/mt-batur-min.jpg %}
+  </div>
+  <div class="mItem">
+    {% picture gallery/bali/temple-dog-min.jpg %}
+  </div>
+  <div class="mItem">
+    {% picture gallery/bali/coconuts-and-rooster-min.jpg %}
   </div>
 </div>
