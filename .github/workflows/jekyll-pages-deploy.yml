@@ -23,14 +23,14 @@ jobs:
           ruby-version: '3.3.5'
           bundler-cache: true
           cache-version: 0
-      - name: install bundler
-        run: gem install bundler
-      - name: install dependencies
-        run: bundle install
       - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@v2
-      - run: bundle exec jekyll build --baseurl ${{ steps.pages.outputs.base_path }} # defaults output to '/_site'
+        uses: actions/configure-pages@v5
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
   deploy:
