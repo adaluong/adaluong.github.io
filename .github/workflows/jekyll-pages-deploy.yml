@@ -23,6 +23,10 @@ jobs:
           ruby-version: '3.3.5'
           bundler-cache: true
           cache-version: 0
+      - name: install bundler
+        run: gem install bundler
+      - name: install dependencies
+        run: bundle install
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v2
