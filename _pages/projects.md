@@ -8,7 +8,7 @@ nav: true
 
 
 [**OpenSSF Malicious Packages**](https://openssf.org/blog/2023/10/12/introducing-openssfs-malicious-packages-repository/)\
-a [repository](https://github.com/ossf/malicious-packages) of malicious software packages, powered by an automated detection system i developed for the open source security team @ google.
+a [repository](https://github.com/ossf/malicious-packages) of malicious software packages, powered by an automated detection system I developed with the open source security team @ Google.
 
 [**Compendio**](https://compendio.tech)\
 a tool for students short on time: get an overview of any video, ask questions, or dig deeper into topics.
