@@ -253,10 +253,7 @@ code {
   color: var(--global-theme-color);
 }
 // Transitioning Themes
-html.transition,
-html.transition *,
-html.transition *:before,
-html.transition *:after {
-  transition: all 750ms !important;
-  transition-delay: 0 !important;
+html.transition * {
+  transition: background-color 200ms ease, color 200ms ease,
+    border-color 200ms ease, box-shadow 200ms ease !important;
 }
