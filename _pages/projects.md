@@ -11,7 +11,7 @@ nav: true
 a [repository](https://github.com/ossf/malicious-packages) of malicious software packages, powered by an automated detection system I developed with the open source security team @ Google.
 
 [**Compendio**](https://compendio.tech)\
-a tool for students short on time: get an overview of any video, ask questions, or dig deeper into topics.
+a tool for students short on time: get an overview of any video, ask questions, or dig deeper into topics. see my [lightning talk](https://youtu.be/j1e9kF8uaNY?t=1350) from pycon au for the backstory.
 
 [**Summarise My Lecture**](https://github.com/adaluong/summarise-my-lecture-hackathon)\
 my favourite hackathon project: we matched questions from live lecture chats with answers from lecture recordings. read the [blog](https://adaluong.me/blog/summarise-my-hackathon).
