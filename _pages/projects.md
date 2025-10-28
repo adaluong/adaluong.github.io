@@ -11,7 +11,7 @@ nav: true
 a [repository](https://github.com/ossf/malicious-packages) of malicious software packages, powered by an automated detection system I developed with the open source security team @ Google.
 
 [**Compendio**](https://compendio.tech)\
-a tool for students short on time: get an overview of any video, ask questions, or dig deeper into topics. see my [lightning talk](https://youtu.be/j1e9kF8uaNY?t=1350) from pycon au for the backstory.
+a tool for students short on time: get an overview of any video, ask questions, or dig deeper into topics. see my [lightning talk](https://youtu.be/j1e9kF8uaNY?t=1360) from pycon au for the backstory.
 
 [**Summarise My Lecture**](https://github.com/adaluong/summarise-my-lecture-hackathon)\
 my favourite hackathon project: we matched questions from live lecture chats with answers from lecture recordings. read the [blog](https://adaluong.me/blog/summarise-my-hackathon).
@@ -24,3 +24,6 @@ revision videos on introductory C programming for UNSW's Programming Fundamental
 
 [**Instrument: Spoken Word Poetry**](https://github.com/adaluong/miscellaneous/blob/master/pdf/englishX2_authors_note.pdf)\
 stories of women in STEM told with spoken-word poetry ft. a [talk](https://github.com/adaluong/miscellaneous/blob/master/pdf/englishX2_eta_slides_2021.pdf) for the nsw english teachers association.
+
+[**phone recorder archives**](https://soundcloud.com/captainadaa)\
+my soundcloud rap career 🎹
